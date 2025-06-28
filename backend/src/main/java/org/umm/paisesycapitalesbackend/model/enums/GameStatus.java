@@ -1,4 +1,8 @@
 package org.umm.paisesycapitalesbackend.model.enums;
 
-public class GameStatus {
+enum GameStatus {
+    STARTED,
+    PAUSED,
+    STOPPED,
+    ERROR
 }

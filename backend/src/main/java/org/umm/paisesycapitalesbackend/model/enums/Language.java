@@ -1,4 +1,6 @@
 package org.umm.paisesycapitalesbackend.model.enums;
 
-public class Language {
+enum Language {
+    SPANISH,
+    ENGLISH
 }
