@@ -1,6 +1,6 @@
 package org.umm.paisesycapitalesbackend.model.enums;
 
-enum GameStatus {
+public enum GameStatus {
     STARTED,
     PAUSED,
     STOPPED,

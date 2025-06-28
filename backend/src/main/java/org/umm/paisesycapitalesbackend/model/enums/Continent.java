@@ -1,6 +1,6 @@
 package org.umm.paisesycapitalesbackend.model.enums;
 
-enum Continent {
+public enum Continent {
     AFRICA,
     EUROPE,
     ASIA,

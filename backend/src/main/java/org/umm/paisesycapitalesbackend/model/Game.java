@@ -22,7 +22,7 @@ public class Game {
     private Language language;
 
     @Enumerated(EnumType.STRING)
-    private Continent continent; // null si es mundial
+    private Continent continent;
 
     private Integer totalRounds;
     private Integer currentRound;
